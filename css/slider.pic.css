@@ -1,0 +1,61 @@
+#slider1{
+    background: url("../images/582c1eabN9e09551c.jpg");
+}
+#slider2{
+    background: url("../images/582e5becN4dda0771.jpg");
+}
+#slider3{
+    background: url("../images/582e6bffN78afc8c1.jpg");
+}
+#slider4{
+    background: url("../images/582e9eb9N0e71827d.jpg");
+}
+#slider5{
+    background: url("../images/582eb8d9Ncf446dda.png");
+}
+#slider6{
+    background: url("../images/582eb644N7f429210.jpg");
+}
+#slider7{
+    background: url("../images/582ebb65Nd733111e.jpg");
+}
+#slider8{
+    background: url("../images/582ebd6fN3fd1fced.jpg");
+}
+
+#icon-1{
+    background-position: 0 -88px;
+}
+#icon-2{
+    background-position: 0 -44px;
+}
+#icon-3{
+    background-position: -44px -44px;
+}
+#icon-4{
+    background-position:  -88px 0;
+}
+#icon-5{
+    background-position:  -88px -44px;
+}
+#icon-6{
+    background-position: 0 0;
+}
+#icon-7{
+    background-position: -44px -88px;
+}
+#icon-8{
+    background-position: -88px -88px;
+}
+#icon-9{
+    background-position: -132px 0;
+}
+#icon-10{
+    background-position: -132px -44px;
+}
+#icon-11{
+    background-position: -132px -88px;
+}
+#icon-12{
+    background-position: -44px 0;
+}
